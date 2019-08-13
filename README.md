@@ -1,12 +1,12 @@
-#Object Bounding box Detection
+# Object Bounding box Detection
 
-####Flipkart Grid 2018 Hackathon Project
+#### Flipkart Grid 2018 Hackathon Project
 
-###AIM
+### AIM
 - Using deep learning approach, to build a convolution neural network which will give the bounding box of object present in input image.
 - The model should work for any flipkart product given in dataset.
 
-###ABOUT
+### ABOUT
 - Tried various model architectures
 - Simple modular code for easy managemet
 - Used *Keras* - deep learning framework of python
@@ -19,6 +19,7 @@
 >**plot.py** - Can be used to see the output
 >**train.py** - Where all other utilities are called and model is trained. Trained model is saved per epoch. This is the main file which we run before output gen and ploting.
 
-###NOTE
+### NOTE
 - As the image dataset was around 14GB, it was not possible to upload it on github.
 - As I tried various models, there were too many saved models. As model size is huge I couldn't upload it on github.
+### END
